@@ -57,7 +57,7 @@ button:hover {
 }
 
 .css {
-    background-color: purple;
+    background-color: #800080;
 }
 
 .js {
@@ -108,5 +108,4 @@ h1 {
 .change {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 32px;
-
 }
